@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="a538d856-687c-468a-896a-03d9fa11e529" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Book.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Book.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/LibraryItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/LibraryItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Magazine.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Magazine.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +36,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/thull/IdeaProjects/LibraryDataManagementApp",
     "onboarding.tips.debug.path": "C:/Users/thull/IdeaProjects/LibraryDataManagementApp/src/Main.java"
   }
 }]]></component>
